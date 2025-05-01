@@ -2,7 +2,7 @@
 
 A sophisticated machine learning-powered tool that helps protect users from phishing attempts by analyzing email content in real-time.
 
-## ⚡️ Deploed at https://dreamy-ganache-d6532a.netlify.app
+## ⚡️ Deployed at https://dreamy-ganache-d6532a.netlify.app
 
 ## 🚀 Features
 
